@@ -102,3 +102,12 @@ button:focus{
 .number:hover{
     background: #333849ac;
 }
+/* Style for the square root button */
+.sqrt {
+    background: #ff9f43;
+    color: #fff;
+}
+
+.sqrt:hover {
+    background: #e68a32;
+}
